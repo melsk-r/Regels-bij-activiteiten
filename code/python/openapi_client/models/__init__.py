@@ -30,6 +30,7 @@ from openapi_client.model.hal_link import HalLink
 from openapi_client.model.hal_pagination_links import HalPaginationLinks
 from openapi_client.model.hal_pagination_links_all_of import HalPaginationLinksAllOf
 from openapi_client.model.idealisatie import Idealisatie
+from openapi_client.model.identificatie import Identificatie
 from openapi_client.model.invalid_params import InvalidParams
 from openapi_client.model.juridische_regel_voor_iedereen import JuridischeRegelVoorIedereen
 from openapi_client.model.juridische_regel_voor_iedereen_embedded import JuridischeRegelVoorIedereenEmbedded
@@ -62,3 +63,4 @@ from openapi_client.model.regeltekst_hal_collectie_embedded import RegeltekstHal
 from openapi_client.model.regeltekst_links import RegeltekstLinks
 from openapi_client.model.soortregeling import Soortregeling
 from openapi_client.model.thema import Thema
+from openapi_client.model.wid import WId

@@ -51,7 +51,7 @@ Aangezien deze API binnengemeentelijk berichtenverkeer van niet privacygevoelige
 
 ## Documentatie
 * [Technische specificaties van de **unresolved** versie](./specificatie/openapi.yaml) (Open API versie)
-* Specificaties van de actuele productie versie (resolved) in [Swagger-formaat](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/VNG-Realisatie/Regels-bij-activiteiten/main/specificatie/genereervariant/openapi.yaml)
+* Specificaties van de actuele productie versie (resolved) in [Swagger-formaat](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/melsk-r/Regels-bij-activiteiten/main/specificatie/genereervariant/openapi.yaml)
 * [Technische specificaties](./specificatie/openapi.json) (JSON Schema versie t.b.v. bestandsuitwisseling)
 * [Technische specificaties](./specificatie/openapi_draft04.json) (JSON Schema draft 04 versie t.b.v. bestandsuitwisseling)
 * Download [client code](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/tree/master/code)
