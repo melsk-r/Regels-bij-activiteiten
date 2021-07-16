@@ -1,8 +1,8 @@
 # Regels bij activiteiten
 
-![lint oas](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/workflows/lint-oas/badge.svg)
-![generate sdks](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/workflows/generate-sdks/badge.svg)
-![generate postman collection](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/workflows/generate-postman-collection/badge.svg)
+![lint oas](https://github.com/melsk-r/Regels-bij-activiteiten/workflows/lint-oas/badge.svg)
+![generate sdks](https://github.com/melsk-r/Regels-bij-activiteiten/workflows/generate-sdks/badge.svg)
+![generate postman collection](https://github.com/melsk-r/Regels-bij-activiteiten/workflows/generate-postman-collection/badge.svg)
 
 Deze API is relevant bij uitvoering van de Omgevingswet, i.h.b. bij het opstellen en onderhouden van zgn. toepasbare regels. Het verschaft de toepasbare regelmaker actuele informatie over de juridische regels en bijbehorende werkingsgebieden en activiteiten waarvoor toepasbare regels opgesteld of aangepast gaan worden.  
 De API maakt het mogelijk om gegevens op te vragen, bij een applicatie die invulling geeft aan de Omgevingswetbeleidcomponent, ook wel aangeduid als plansoftware, over (Omgevingswet-)activiteiten en/of (bijbehorende) juridische regels, regelteksten en locaties. Die gegevens maken deel uit van de vastlegging van omgevingsdocumenten, zoals een omgevingsplan, met genoemde applicatie. Het betreft regels en annotaties zoals die op het moment van opvragen vastgelegd zijn (in de plansoftware); er kan dus sprake zijn van nog niet vastgestelde of gepubliceerde gegevens. Het betreft dan bijvoorbeeld een beoogde wijziging van een omgevingsplan.  
