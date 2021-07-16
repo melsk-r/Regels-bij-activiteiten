@@ -20,6 +20,8 @@
 					"format": "date"
 				},
 				"bovenliggendeActiviteitIdentificatie": {
+				    "title": "bovenliggendeActiviteitIdentificatie",
+				    "description": "<body><p>Identificatie van de bovenliggende activiteit.</p></body>",
 					"$ref": "#/definitions/Identificatie"
 				},
 				"einddatum": {
@@ -30,26 +32,26 @@
 				},
 				"gerelateerdeActiviteitIdentificaties": {
 					"type": "array",
+				    "title": "gerelateerdeActiviteitIdentificaties",
+				    "description": "<body><p>Identificatie van de gerelateerde activiteiten.</p></body>",
+				    "minItems": 0,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
 				},
 				"groep": {
-					"allOf": [
-						{
-							"$ref": "#/definitions/Activiteitengroep"
-						},
-						{
-							"title": "groep",
-							"description": "<body><p>Een categorie, of groep, van activiteiten waaronder een activiteit valt.</p></body>"
-						}
-					]
+					"title": "groep",
+					"description": "<body><p>Een categorie, of groep, van activiteiten waaronder een activiteit valt.</p></body>",
+					"$ref": "#/definitions/Activiteitengroep"
 				},
 				"identificatie": {
 					"$ref": "#/definitions/Identificatie"
 				},
 				"juridischeRegelVoorIedereenIdentificaties": {
 					"type": "array",
+				    "title": "juridischeRegelVoorIedereenIdentificaties",
+				    "description": "<body><p>Identificatie van de met de activiteit gerelateerde juridischeRegelsVoorIedereen.</p></body>",
+				    "minItems": 1,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
@@ -92,22 +94,20 @@
 				},
 				"gedefinieerdeLocatieIdentificaties": {
 					"type": "array",
+				    "title": "gedefinieerdeLocatieIdentificaties",
+				    "description": "<body><p>Identificatie van de gedefinieerde locaties.</p></body>",
+				    "minItems": 1,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
 				},
 				"idealisatie": {
-					"allOf": [
-						{
-							"$ref": "#/definitions/Idealisatie"
-						},
-						{
-							"title": "idealisatie",
-							"description": "<body><p>De manier waarop de begrenzing van Locatie voor de Juridische regel ge&#239;nterpreteerd moet worden en door het bevoegd gezag bedoeld is.</p></body>"
-						}
-					]
+					"title": "idealisatie",
+					"description": "<body><p>De manier waarop de begrenzing van Locatie voor de Juridische regel ge&#239;nterpreteerd moet worden en door het bevoegd gezag bedoeld is.</p></body>",
+					"$ref": "#/definitions/Idealisatie"
 				},
 				"identificatie": {
+					"description": "<body><p>De unieke identificatie van de juridischeRegelVoorIedereen.</p></body>",
 					"$ref": "#/definitions/Identificatie"
 				},
 				"normeertActiviteiten": {
@@ -123,6 +123,8 @@
 					"minLength": 1
 				},
 				"regeltekstIdentificatie": {
+				    "title": "regeltekstIdentificatie",
+				    "description": "<body><p>Identificatie van de overkoepelende regeltekst.</p></body>",
 					"$ref": "#/definitions/Identificatie"
 				},
 				"themas": {
@@ -154,6 +156,7 @@
 					"format": "date"
 				},
 				"geometrie": {
+					"description": "<body><p>De geometrische bepaling door middel van coördinaten.</p></body>",
 					"$ref": "#/definitions/GeoJSONGeometrie"
 				},
 				"geometrieBron": {
@@ -162,6 +165,7 @@
 					"description": "<body><p>De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie.</p></body><body><p>De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie.</p></body><body><p>De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie.</p></body>"
 				},
 				"identificatie": {
+					"description": "<body><p>De unieke identificatie van de locatie.</p></body>",
 					"$ref": "#/definitions/Identificatie"
 				},
 				"noemer": {
@@ -171,6 +175,9 @@
 				},
 				"omvattendeLocatieIdentificaties": {
 					"type": "array",
+					"title": "omvattendeLocatieIdentificaties", 
+				    "description": "<body><p>Identificatie van de omvattende locaties.</p></body>", 
+				    "minItems": 0,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
@@ -209,11 +216,15 @@
 				},
 				"gerelateerdeRegeltekstIdentificaties": {
 					"type": "array",
+					"title": "gerelateerdeRegeltekstIdentificaties",
+					"description": "<body><p>Identificaties van de gerelateerde regelteksten.</p></body>",
+					"minItems": 0,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
 				},
 				"identificatie": {
+					"description": "<body><p>De unieke identificatie van de regeltekst in het OW-domein.</p></body>",
 					"$ref": "#/definitions/Identificatie"
 				},
 				"laatsteWijzigingsdatum": {
@@ -224,6 +235,9 @@
 				},
 				"locatieIdentificaties": {
 					"type": "array",
+				    "title": "locatieIdentificaties",
+				    "description": "<body><p>Identificaties van de gerelateerde locaties die gezamenlijk het werkingsgebied van de regeltekst vormen.</p></body>",
+				    "minItems": 1,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
@@ -253,27 +267,25 @@
 			],
 			"properties": {
 				"activiteitIdentificatie": {
-					"type": "string",
 					"title": "activiteitIdentificatie",
 					"description": "<body><p>Identificatie van de betreffende activiteit.</p></body>",
-					"minLength": 1
+					"$ref": "#/definitions/Identificatie"
 				},
 				"activiteitLocatieIdentificatie": {
+					"title": "identificatie",
+					"description": "<body><p>Identificatie van de gerelateerde activiteitLocatie.</p></body>",
 					"$ref": "#/definitions/Identificatie"
 				},
 				"activiteitregelkwalificatie": {
-					"allOf": [
-						{
-							"$ref": "#/definitions/Activiteitregelkwalificatie"
-						},
-						{
-							"title": "activiteitregelkwalificatie",
-							"description": "<body><p>De naam van de kwalificatie van de Juridische regel over een activiteit.</p></body>"
-						}
-					]
+					"title": "activiteitregelkwalificatie",
+					"description": "<body><p>De naam van de kwalificatie van de Juridische regel over een activiteit.</p></body>",
+					"$ref": "#/definitions/Activiteitregelkwalificatie"
 				},
 				"gekwalificeerdeLocatieIdentificaties": {
 					"type": "array",
+					"title": "gekwalificeerdeLocatieIdentificaties",
+					"description": "<body><p>Identificatie van de gekwalificeerde locaties.</p></body>",
+					"minItems": 1,
 					"items": {
 						"$ref": "#/definitions/Identificatie"
 					}
@@ -337,6 +349,7 @@
 			],
 			"properties": {
 				"identificatie": {
+					"description": "<body><p>De unieke identificatie van het documentComponent cq. de regeltekst conform de STOP-standaard.</p></body>",
 					"$ref": "#/definitions/WId"
 				},
 				"kop": {
@@ -423,27 +436,20 @@
 					"minLength": 1
 				},
 				"identificatie": {
-					"type": "string",
 					"title": "identificatie",
 					"description": "<body><p>De unieke identificatie van de versie van het omgevingsdocument.</p></body>",
-					"minLength": 1
+					"$ref": "#/definitions/Identificatie"
 				},
 				"opschrift": {
 					"type": "string",
 					"title": "opschrift",
-					"description": "<body><p>De intitule (offici&#235;le titel) van een regeling zijnde het omgevingsdocument.</p></body>",
+					"description": "<body><p>De intitul&#233; (offici&#235;le titel) van een regeling zijnde het omgevingsdocument.</p></body>",
 					"minLength": 1
 				},
 				"type": {
-					"allOf": [
-						{
-							"$ref": "#/definitions/Soortregeling"
-						},
-						{
-							"title": "type",
-							"description": "<body><p>De aanduiding van het type regeling van het omgevingsdocument.</p></body>"
-						}
-					]
+					"title": "type",
+					"description": "<body><p>De aanduiding van het type regeling van het omgevingsdocument.</p></body>",
+					"$ref": "#/definitions/Soortregeling"
 				}
 			}
 		},
@@ -490,6 +496,19 @@
 					"minLength": 1
 				}
 			}
+		},
+		"LocatieType": {
+			"type": "string",
+			"description": "<body><p>Beschrijft de typering van de locatie, een geometrietypering of een functionele typering.</p></body>",
+			"enum": [
+				"punt",
+				"ambtsgebied",
+				"puntengroep",
+				"gebied",
+				"gebiedengroep",
+				"lijn",
+				"lijnengroep"
+			]
 		},
 		"GeoJSONGeometrie": {
 			"title": "GeoJSON Geometrie",
@@ -683,26 +702,15 @@
 				}
 			}
 		},
-		"LocatieType": {
-			"type": "string",
-			"description": "<body><p>Beschrijft de typering van de locatie, een geometrietypering of een functionele typering.</p></body>",
-			"enum": [
-				"punt",
-				"ambtsgebied",
-				"puntengroep",
-				"gebied",
-				"gebiedengroep",
-				"lijn",
-				"lijnengroep"
-			]
-		},
 		"Identificatie": {
 			"type": "string",
-			"description": ""
+			"description": "<body><p>Identificatie datatype van Geonovum.</p></body>",
+			"minLength": 1
 		},
 		"WId": {
 			"type": "string",
-			"description": ""
+			"description": "<body><p>Identificatie datatype van de KOOP standaard.</p></body>",
+			"minLength": 1
 		}
 	}
 }
