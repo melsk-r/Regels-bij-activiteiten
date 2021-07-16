@@ -157,7 +157,7 @@ components:
           format: "date"
         geometrie:
           description: "<body><p>De geometrische bepaling door middel van coördinaten.</p></body>"
-          $ref: "https://raw.githubusercontent.com/VNG-Realisatie/API-Kennisbank/master/common/Generieke-Datatypen-Gemeenten.yaml#/components/schemas/GeoJsonGeometrie"
+          $ref: "https://raw.githubusercontent.com/VNG-Realisatie/API-Kennisbank/master/common/Generieke-Datatypen-Gemeenten.yaml#/components/schemas/GeoJSONGeometrie"
         geometrieBron:
           type: "string"
           title: "bron"
