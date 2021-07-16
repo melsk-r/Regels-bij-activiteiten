@@ -1,11 +1,11 @@
 {
     "item": [
         {
-            "id": "00f4237d-a599-4c8d-bfe2-a6059702b3e8",
+            "id": "86aaa9cd-8149-41ea-a282-d89cf11f1f4b",
             "name": "activiteiten",
             "item": [
                 {
-                    "id": "2d883426-ca3d-4f11-9007-8f1962864168",
+                    "id": "b1e554a1-a744-4727-9402-f0672628782d",
                     "name": "Getactiviteiten",
                     "request": {
                         "name": "Getactiviteiten",
@@ -60,7 +60,7 @@
                     },
                     "response": [
                         {
-                            "id": "1e79276c-129f-47cc-8bb9-4ebc2623a926",
+                            "id": "8dd9e6f2-0c40-4d24-bb13-321fcfd39004",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -137,19 +137,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -157,12 +157,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"aliquip dolore\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"eiu\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"eiusmod \"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"Ut ipsum\"\n  }\n },\n \"_embedded\": {\n  \"activiteiten\": [\n   {\n    \"bovenliggendeActiviteitIdentificatie\": \"non\",\n    \"groep\": {},\n    \"identificatie\": \"velit dolore mollit\",\n    \"juridischeRegelVoorIedereenIdentificaties\": [\n     \"sed\"\n    ],\n    \"naam\": \"ea sit magna\",\n    \"begindatum\": \"1943-11-09\",\n    \"einddatum\": \"1952-02-21\",\n    \"gerelateerdeActiviteitIdentificaties\": [\n     \"aliqua ea\",\n     \"in eiusmod Ut pariatur\"\n    ],\n    \"laatsteWijzigingsdatum\": \"1954-06-08\",\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"occaecat sint qui\"\n     },\n     \"gerelateerdeActiviteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"bovenliggendeActiviteit\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   },\n   {\n    \"bovenliggendeActiviteitIdentificatie\": \"amet laborum\",\n    \"groep\": {},\n    \"identificatie\": \"aute irure laboris\",\n    \"juridischeRegelVoorIedereenIdentificaties\": [\n     \"enim Lorem ex\"\n    ],\n    \"naam\": \"velit sit nisi\",\n    \"begindatum\": \"1980-08-14\",\n    \"einddatum\": \"2018-09-23\",\n    \"gerelateerdeActiviteitIdentificaties\": [\n     \"labore culpa \",\n     \"do occaecat cupidatat\"\n    ],\n    \"laatsteWijzigingsdatum\": \"1961-06-11\",\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": true,\n      \"title\": \"Excepteur ullamco\"\n     },\n     \"gerelateerdeActiviteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"bovenliggendeActiviteit\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   }\n  ]\n }\n}",
+                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"aute D\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"aute velit labore minim\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"culpa ad\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"veniam officia ea\"\n  }\n },\n \"_embedded\": {\n  \"activiteiten\": [\n   {\n    \"bovenliggendeActiviteitIdentificatie\": \"aliquip ullamco cillum\",\n    \"groep\": {\n     \"code\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"waarde\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"identificatie\": \"eu ullamco eiusmod\",\n    \"juridischeRegelVoorIedereenIdentificaties\": [\n     \"qu\"\n    ],\n    \"naam\": \"eiusmod\",\n    \"begindatum\": \"1951-03-19\",\n    \"einddatum\": \"2020-06-13\",\n    \"gerelateerdeActiviteitIdentificaties\": [\n     \"minim sint\",\n     \"magna dolor se\"\n    ],\n    \"laatsteWijzigingsdatum\": \"1982-12-02\",\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": true,\n      \"title\": \"esse irure non\"\n     },\n     \"gerelateerdeActiviteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"bovenliggendeActiviteit\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   },\n   {\n    \"bovenliggendeActiviteitIdentificatie\": \"velit id\",\n    \"groep\": {\n     \"code\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"waarde\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"identificatie\": \"pariatur minim n\",\n    \"juridischeRegelVoorIedereenIdentificaties\": [\n     \"irure magna adipisicing deserunt\"\n    ],\n    \"naam\": \"consequat ex laborum\",\n    \"begindatum\": \"2021-03-08\",\n    \"einddatum\": \"1948-09-04\",\n    \"gerelateerdeActiviteitIdentificaties\": [\n     \"voluptate et ex\",\n     \"amet et eiusmod\"\n    ],\n    \"laatsteWijzigingsdatum\": \"2016-12-20\",\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"exercitation irure dolor et aliquip\"\n     },\n     \"gerelateerdeActiviteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"bovenliggendeActiviteit\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"juridischeRegelsVoorIedereen\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "7f1878b8-67a8-4c72-91fc-a023ac5d8e9c",
+                            "id": "654c4102-fca9-4ed1-88f2-267d2306be9a",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -222,7 +222,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "28448f8d-cd17-42f6-96bd-58cf665fb34f",
+                            "id": "2b97d732-9fd2-46ca-9a16-dafcca980bf6",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -282,7 +282,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "cdf36c79-fbd5-4000-99fc-eff73b16faa1",
+                            "id": "0a216b48-fd9c-4b0e-b47b-81a56fa27e1e",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -342,7 +342,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "d4b93ee5-763c-420a-8995-49812c65f77e",
+                            "id": "86620185-3a81-4643-bbca-08e3c6fefb46",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -402,7 +402,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "9875801b-a4ac-4182-b870-5039136d5b41",
+                            "id": "b264709d-a017-47cf-bf25-d301f66270e0",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -462,7 +462,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ebbb761f-bacb-4c16-bd85-75c56b1d71dc",
+                            "id": "fb737305-9fbd-435b-87f5-793cc3508861",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -522,7 +522,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "40ae53b9-201d-4b07-ac00-5b102e5c0d55",
+                            "id": "23e96ef8-fa63-4d20-a42b-9da5cb43672d",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -582,7 +582,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ec2c62c3-0286-49df-96c5-77436c9fc12a",
+                            "id": "6bf14a1b-f3ff-4d44-ab0a-a2ebcac01199",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -642,7 +642,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "800a14d7-eb1d-461b-9afb-9e6bee896ab7",
+                            "id": "34d17b25-42f6-4bd8-a1c3-9470eb3c56d4",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -702,7 +702,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "6fd92420-d511-42af-b7ae-683f0ae3bdba",
+                            "id": "c848e67b-149d-4a59-8480-fecbefdb0e07",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -762,7 +762,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "b5dabfdf-8c7f-4885-bdae-7e8fd8b2c878",
+                            "id": "f8ebcdbf-f168-4438-9eb0-d006ed923c97",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -817,7 +817,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -825,7 +825,7 @@
                     "event": []
                 },
                 {
-                    "id": "ef41139b-30e1-4d5b-8d71-9e2b63078192",
+                    "id": "92c0b2ef-41db-4947-8576-77c1fb3f60f3",
                     "name": "Getactiviteit",
                     "request": {
                         "name": "Getactiviteit",
@@ -853,9 +853,9 @@
                                 {
                                     "disabled": false,
                                     "type": "any",
-                                    "value": "adipisicing magna",
+                                    "value": "occaecat aliquip",
                                     "key": "identificatie",
-                                    "description": "(Required) <body><p>De unieke identificatie waaronder elk object van dit type bekend is.</p></body>"
+                                    "description": "(Required) <body><p>De unieke identificatie van de activiteit.</p></body>"
                                 }
                             ]
                         },
@@ -872,7 +872,7 @@
                     },
                     "response": [
                         {
-                            "id": "b0d47443-5809-479c-895a-1c8f8f811814",
+                            "id": "0e349698-eeea-4a2b-9811-d1c77c8affd3",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -931,19 +931,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -951,12 +951,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"bovenliggendeActiviteitIdentificatie\": \"cupidatat Lorem id qui non\",\n \"groep\": {},\n \"identificatie\": \"proident ipsum laborum magna\",\n \"juridischeRegelVoorIedereenIdentificaties\": [\n  \"in\"\n ],\n \"naam\": \"ad nostrud officia sint\",\n \"begindatum\": \"1944-11-15\",\n \"einddatum\": \"1949-06-17\",\n \"gerelateerdeActiviteitIdentificaties\": [\n  \"quis Lorem sint dolor\",\n  \"labore ea ut in\"\n ],\n \"laatsteWijzigingsdatum\": \"1952-11-15\",\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"in ad mollit esse\"\n  },\n  \"gerelateerdeActiviteiten\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   },\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"bovenliggendeActiviteit\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"juridischeRegelsVoorIedereen\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n },\n \"_embedded\": {\n  \"juridischeRegelsVoorIedereen\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n }\n}",
+                            "body": "{\n \"bovenliggendeActiviteitIdentificatie\": \"deserunt Excepteur cill\",\n \"groep\": {\n  \"code\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"waarde\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n },\n \"identificatie\": \"nostrud enim cupidatat\",\n \"juridischeRegelVoorIedereenIdentificaties\": [\n  \"labore laborum id laboris eiusmod\"\n ],\n \"naam\": \"tempor reprehenderit sit et\",\n \"begindatum\": \"1962-03-20\",\n \"einddatum\": \"1978-08-27\",\n \"gerelateerdeActiviteitIdentificaties\": [\n  \"fugiat\",\n  \"proident aliqua\"\n ],\n \"laatsteWijzigingsdatum\": \"2006-11-15\",\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"est adipisicing sint\"\n  },\n  \"gerelateerdeActiviteiten\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   },\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"bovenliggendeActiviteit\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"juridischeRegelsVoorIedereen\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n },\n \"_embedded\": {\n  \"juridischeRegelsVoorIedereen\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "00d97650-c37f-4b41-a980-042edc7e78bf",
+                            "id": "7c52f55d-e955-40ff-93fd-3e75db08ed46",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -1010,7 +1010,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "99b62f41-e3e3-47e5-90cf-a9fd2bbfdf63",
+                            "id": "07b4c546-1ebc-4e69-971d-333c53e8b1fc",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -1064,7 +1064,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "6458f6bb-b49c-4cf3-9eee-ed363125d580",
+                            "id": "30978db9-af06-434d-8303-089cfc992cf0",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -1118,7 +1118,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ff38a429-78f7-4519-a906-9d16be59e4c0",
+                            "id": "de8b8cbb-129b-4b9f-a6fa-ed24eecdb48e",
                             "name": "Not Found",
                             "originalRequest": {
                                 "url": {
@@ -1172,7 +1172,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "13057564-38c0-4b27-9882-dfde85d6e101",
+                            "id": "0c5241e8-a3f8-4cc8-b349-86ccf3b8d380",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -1226,7 +1226,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "82033d6c-0b68-4bb6-a1f7-49d5f4df380e",
+                            "id": "cf53183b-00da-4349-ac33-3de1b88e2638",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -1280,7 +1280,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "5ad8e983-1288-4950-bc29-f4e6e2d7b2f8",
+                            "id": "8d12aab7-500d-4edf-b428-51bb82a9f4b4",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -1334,7 +1334,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "96ffd4c7-6c09-490d-9250-bfd2302a22d6",
+                            "id": "23cd88fd-a38d-4d21-8f3d-e7a718386c2a",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -1388,7 +1388,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "e0b44028-a7a9-4688-88b6-adeaead28b36",
+                            "id": "649c0657-5e41-48fc-9e5f-8363682241d9",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -1442,7 +1442,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "c624582f-2bd3-4f60-aa10-45c2c6ca1c90",
+                            "id": "816e28a2-2c0c-4a70-ba40-8fd8be53301e",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -1496,7 +1496,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "7724fc0c-94a1-4d58-8b08-6c0928e39729",
+                            "id": "48f87338-1257-4a65-9930-81db1d19c9ad",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -1550,7 +1550,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "acc7cf4b-fa56-456f-b275-c01505e9e450",
+                            "id": "099ee9ee-5660-40b5-850b-21b24dc9044c",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -1599,7 +1599,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -1610,11 +1610,11 @@
             "event": []
         },
         {
-            "id": "0297bcec-5b98-453a-8c7b-1888cf61dc7b",
+            "id": "ccb35502-1cfb-4049-b5b3-53633e8eef03",
             "name": "juridischeregelsvooriedereen",
             "item": [
                 {
-                    "id": "7ecff321-1ac0-4301-a69c-18df500e0b04",
+                    "id": "7f6d0f58-453d-41a2-9dfc-c1cf5b0ad808",
                     "name": "Getjuridische Regels Voor Iedereen",
                     "request": {
                         "name": "Getjuridische Regels Voor Iedereen",
@@ -1663,7 +1663,7 @@
                     },
                     "response": [
                         {
-                            "id": "e7c8655b-2631-4a47-8973-c72e4ee8cdcc",
+                            "id": "47066d90-a7c9-4212-b690-a0c9262e6e91",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -1736,19 +1736,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -1756,12 +1756,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"ut pariatur deserunt\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"Excepteur Lorem enim\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"eiusmod in labore occaecat reprehenderit\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"eiusmod sit\"\n  }\n },\n \"_embedded\": {\n  \"juridischeregelsvooriedereen\": [\n   {\n    \"gedefinieerdeLocatieIdentificaties\": [\n     \"voluptate Duis aliquip sunt\"\n    ],\n    \"identificatie\": \"aliqu\",\n    \"omschrijving\": \"ea et\",\n    \"regeltekstIdentificatie\": \"tempor\",\n    \"begindatum\": \"1986-09-11\",\n    \"einddatum\": \"1953-04-18\",\n    \"idealisatie\": {},\n    \"normeertActiviteiten\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"themas\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"id occaecat aute\"\n     },\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"gekwalificeerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"activiteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    }\n   },\n   {\n    \"gedefinieerdeLocatieIdentificaties\": [\n     \"enim ex\"\n    ],\n    \"identificatie\": \"consequat\",\n    \"omschrijving\": \"velit dolore Excepteur occaecat\",\n    \"regeltekstIdentificatie\": \"adipisicing consequat\",\n    \"begindatum\": \"1965-10-14\",\n    \"einddatum\": \"2000-11-25\",\n    \"idealisatie\": {},\n    \"normeertActiviteiten\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"themas\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"id est elit\"\n     },\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"gekwalificeerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"activiteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    }\n   }\n  ]\n }\n}",
+                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"anim\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"sit et Ut\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"cillum est dolore pariatur\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"ut amet \"\n  }\n },\n \"_embedded\": {\n  \"juridischeregelsvooriedereen\": [\n   {\n    \"gedefinieerdeLocatieIdentificaties\": [\n     \"aliquip minim\"\n    ],\n    \"identificatie\": \"commodo Ut\",\n    \"omschrijving\": \"minim ipsum deserunt pariatur\",\n    \"regeltekstIdentificatie\": \"officia consectetur qui Duis\",\n    \"begindatum\": \"2010-09-24\",\n    \"einddatum\": \"1962-10-28\",\n    \"idealisatie\": {\n     \"code\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"waarde\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"normeertActiviteiten\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"themas\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"in esse deserunt laborum\"\n     },\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"gekwalificeerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"activiteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    }\n   },\n   {\n    \"gedefinieerdeLocatieIdentificaties\": [\n     \"velit quis reprehenderit incididunt\"\n    ],\n    \"identificatie\": \"dolor amet consequat ipsum aliqua\",\n    \"omschrijving\": \"pariatur officia incididunt est\",\n    \"regeltekstIdentificatie\": \"commodo mollit\",\n    \"begindatum\": \"2011-04-29\",\n    \"einddatum\": \"1977-03-02\",\n    \"idealisatie\": {\n     \"code\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"waarde\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"normeertActiviteiten\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"themas\": [\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": true,\n      \"title\": \"anim et ullamco eu\"\n     },\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"gekwalificeerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"activiteiten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"gedefinieerdeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"regeltekst\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    }\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "3208d393-a073-4705-ba46-e2f1de25e920",
+                            "id": "723fcf06-3b61-44b1-a554-e7347c58e4d6",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -1817,7 +1817,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "88b36408-02cd-4044-a129-2a127ec17906",
+                            "id": "7b76da8f-ed97-4d96-ba20-8ef7b0bdd13e",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -1873,7 +1873,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "f64785ea-de02-483e-8e8f-ebeec4e42e14",
+                            "id": "7064da01-6c8e-4987-a580-9b2a9239dc44",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -1929,7 +1929,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "aa4e766c-5515-44cf-94ad-c4654c9a70df",
+                            "id": "1b4ee8a6-0140-42f5-a7f5-a379ee2b65e1",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -1985,7 +1985,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "77e41586-cef3-4806-9056-246b5438b4a8",
+                            "id": "8cfe6897-9a39-473f-b827-0a14e00775ae",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -2041,7 +2041,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "8f9e05f4-82d0-4d2f-a858-63358e9947cf",
+                            "id": "c2842cb4-66a1-4a9c-a2fb-0eda790a5c07",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -2097,7 +2097,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "faca3b51-fcaa-4dee-9196-0519a8dfd492",
+                            "id": "83be859d-8e97-4e1e-ab8d-f092951324ef",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -2153,7 +2153,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "150b58bb-7588-4150-97f8-bb33cecaaf96",
+                            "id": "7aeb2ef9-3dd4-479b-aa7b-ca06915f3e3e",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -2209,7 +2209,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "e9a78aca-6842-4ebd-8420-b2e4263069ae",
+                            "id": "b1beedd1-109d-4fdf-938c-c6d393d19cca",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -2265,7 +2265,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "a0e338c9-9498-4949-aa99-0ff20b854867",
+                            "id": "256bdfa0-7c0b-481a-a7f1-301bc7d4f5e2",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -2321,7 +2321,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "b647715d-944a-4807-9cd4-1e603eaa7dda",
+                            "id": "2ad6628a-25c4-404b-a375-43a81b697c57",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -2372,7 +2372,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -2380,7 +2380,7 @@
                     "event": []
                 },
                 {
-                    "id": "b5b4e2bc-5168-4cc4-8646-9ed35a7d42ed",
+                    "id": "e6d0f49f-406a-496d-bc57-6b7217d55da4",
                     "name": "Getjuridische Regel Voor Iedereen",
                     "request": {
                         "name": "Getjuridische Regel Voor Iedereen",
@@ -2408,9 +2408,9 @@
                                 {
                                     "disabled": false,
                                     "type": "any",
-                                    "value": "adipisicing magna",
+                                    "value": "occaecat aliquip",
                                     "key": "identificatie",
-                                    "description": "(Required) <body><p>Een inhoudelijke toelichting op de toepassing van het informatie-element.</p></body><body><p>De verzameling van waarden die gegevens van dit attribuutsoort kunnen hebben, dat wil zeggen het waardenbereik, uitgedrukt in een specifieke structuur.</p></body>"
+                                    "description": "(Required) <body><p>De unieke identificatie van de juridischeRegelVoorIedereen.</p></body><body><p>De verzameling van waarden die gegevens van dit attribuutsoort kunnen hebben, dat wil zeggen het waardenbereik, uitgedrukt in een specifieke structuur.</p></body>"
                                 }
                             ]
                         },
@@ -2427,7 +2427,7 @@
                     },
                     "response": [
                         {
-                            "id": "b62682d8-f05b-4521-8478-3d3679371bbb",
+                            "id": "2079a378-114e-4bdb-8ccb-51c3665326f8",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -2486,19 +2486,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -2506,12 +2506,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"gedefinieerdeLocatieIdentificaties\": [\n  \"incididunt\"\n ],\n \"identificatie\": \"nostrud sed non\",\n \"omschrijving\": \"deserunt incididunt laboris\",\n \"regeltekstIdentificatie\": \"ipsum consequat velit reprehenderit esse\",\n \"begindatum\": \"1968-02-29\",\n \"einddatum\": \"1993-02-19\",\n \"idealisatie\": {},\n \"normeertActiviteiten\": [\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n ],\n \"themas\": [\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n ],\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"esse magna nulla ea id\"\n  },\n  \"gedefinieerdeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"regeltekst\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"gekwalificeerdeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"activiteiten\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n },\n \"_embedded\": {\n  \"gedefinieerdeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"regeltekst\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n }\n}",
+                            "body": "{\n \"gedefinieerdeLocatieIdentificaties\": [\n  \"quis incididunt\"\n ],\n \"identificatie\": \"sunt in\",\n \"omschrijving\": \"non laborum\",\n \"regeltekstIdentificatie\": \"et sit\",\n \"begindatum\": \"1990-07-20\",\n \"einddatum\": \"2013-04-25\",\n \"idealisatie\": {\n  \"code\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"waarde\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n },\n \"normeertActiviteiten\": [\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n ],\n \"themas\": [\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n ],\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"nulla amet\"\n  },\n  \"gedefinieerdeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"regeltekst\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"gekwalificeerdeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"activiteiten\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n },\n \"_embedded\": {\n  \"gedefinieerdeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"regeltekst\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "005e41fe-50c2-4542-973a-8b4d90f62cc6",
+                            "id": "4833a2ee-add9-4e84-9e65-40a2d1bee066",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -2565,7 +2565,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "7ba0687b-24c7-4204-9c1e-ace1dfcbd5cb",
+                            "id": "50400a98-5d7f-47d8-9f01-2e20ca361efe",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -2619,7 +2619,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "101e6ab2-4700-4203-bdeb-e76d28cbfd49",
+                            "id": "be383363-5d00-4ef4-b6ee-340c0b5c9a89",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -2673,7 +2673,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "8a8b1322-77a2-4a77-8f32-9ab14b175da6",
+                            "id": "a669e3f0-b213-485b-a96a-e67e29df4346",
                             "name": "Not Found",
                             "originalRequest": {
                                 "url": {
@@ -2727,7 +2727,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "32db74e9-dcef-4408-908c-eb98846babde",
+                            "id": "a0632dc1-e8e6-45e6-b8a0-69d7533445c9",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -2781,7 +2781,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "3fb34ed3-678d-49c1-bc65-8b7ceb9c56c4",
+                            "id": "2785c5e8-c16f-4524-b51f-f3f02cbc0b15",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -2835,7 +2835,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "68d0e33a-0219-4c8d-91e3-e32829decb9d",
+                            "id": "d26160fc-fa75-47d8-ae34-128616dbee35",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -2889,7 +2889,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "15c2f6c1-06ef-4ea9-bf46-2f02c0566fba",
+                            "id": "6312a221-d797-4950-a6a2-8eb770d7319f",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -2943,7 +2943,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "bef9875d-e3b8-4583-9d9b-36a027c09931",
+                            "id": "6a3f68b1-5bce-4692-843f-8fdd036c4dbc",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -2997,7 +2997,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "1a591bb7-9f40-4de9-b505-04e0aae977c6",
+                            "id": "025ba960-2e43-4500-a858-6e8976219064",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -3051,7 +3051,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "b06cf59c-c085-41ef-8409-64bb21d86b81",
+                            "id": "8a1961fe-ebf1-40dc-8378-ea527eccb374",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -3105,7 +3105,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "79c8728f-7af2-4580-9a57-06f111027267",
+                            "id": "d696ca92-9e65-4fee-9e85-e0c9cc67cc86",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -3154,7 +3154,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -3165,11 +3165,11 @@
             "event": []
         },
         {
-            "id": "11f47d79-5ce8-47a1-bab9-9350a796299c",
+            "id": "d456937f-7333-44f1-b853-43e727b5d04c",
             "name": "locaties",
             "item": [
                 {
-                    "id": "2a7a0639-ccd2-4669-bf41-3dc877a517f2",
+                    "id": "5def3cb6-5095-44b8-be8e-2d37b4640c64",
                     "name": "Getlocaties",
                     "request": {
                         "name": "Getlocaties",
@@ -3212,7 +3212,7 @@
                     },
                     "response": [
                         {
-                            "id": "f94b4ca1-0e60-4ae5-85e7-5324aeefa37a",
+                            "id": "ef738d00-67ab-44b2-8cda-26282306be38",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -3281,19 +3281,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -3301,12 +3301,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"tempor\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"ut id in sit\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"officia cupidatat deserunt sit\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"laboris proident minim aliqua\"\n  }\n },\n \"_embedded\": {\n  \"locaties\": [\n   {\n    \"identificatie\": \"mollit ullamco quis\",\n    \"type\": \"lijnengroep\",\n    \"werkpakketCode\": \"aute commodo eu aliqua\",\n    \"begindatum\": \"1962-02-18\",\n    \"einddatum\": \"1982-04-16\",\n    \"geometrie\": {},\n    \"geometrieBron\": \"consequat amet ullamco consectetur quis\",\n    \"noemer\": \"cul\",\n    \"omvattendeLocatieIdentificaties\": [\n     \"non ut quis magna fugiat\",\n     \"pariatur aute\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"pariatur dolor\"\n     },\n     \"omvattendeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   },\n   {\n    \"identificatie\": \"officia est sunt\",\n    \"type\": \"puntengroep\",\n    \"werkpakketCode\": \"non velit laboris\",\n    \"begindatum\": \"2019-01-13\",\n    \"einddatum\": \"1951-02-10\",\n    \"geometrie\": {},\n    \"geometrieBron\": \"mollit laboris qui labore\",\n    \"noemer\": \"id labore\",\n    \"omvattendeLocatieIdentificaties\": [\n     \"anim es\",\n     \"sed\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": true,\n      \"title\": \"ea in ullamco deserunt\"\n     },\n     \"omvattendeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   }\n  ]\n }\n}",
+                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"mollit ipsum do dolore\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"in sit\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"amet culpa\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"dolor magna sint ut commodo\"\n  }\n },\n \"_embedded\": {\n  \"locaties\": [\n   {\n    \"identificatie\": \"id\",\n    \"type\": \"punt\",\n    \"begindatum\": \"1945-12-21\",\n    \"einddatum\": \"1984-06-15\",\n    \"geometrie\": {\n     \"point\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"lineString\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"polygon\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"multiPoint\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"multiLineString\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"multiPolygon\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"geometrieBron\": \"reprehenderit minim dolor\",\n    \"noemer\": \"deserunt cillum sunt\",\n    \"omvattendeLocatieIdentificaties\": [\n     \"laboris adipisicing in e\",\n     \"pariatur qui occaecat\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"officia aliquip laborum ipsum\"\n     },\n     \"omvattendeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   },\n   {\n    \"identificatie\": \"dolor Excepteur\",\n    \"type\": \"lijn\",\n    \"begindatum\": \"2000-12-27\",\n    \"einddatum\": \"1950-06-28\",\n    \"geometrie\": {\n     \"point\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"lineString\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"polygon\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"multiPoint\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"multiLineString\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"multiPolygon\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"geometrieBron\": \"Lorem voluptate in\",\n    \"noemer\": \"ea nulla dolor Lorem quis\",\n    \"omvattendeLocatieIdentificaties\": [\n     \"cupidatat culpa\",\n     \"culpa \"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": true,\n      \"title\": \"aliqua sunt\"\n     },\n     \"omvattendeLocaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "235d8834-c1d2-4755-88e3-940f1055961a",
+                            "id": "0e9a8e67-4a02-4396-8a31-ee5cb2527908",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -3358,7 +3358,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ee6158a1-614b-4c80-8dab-0a2ce4e13565",
+                            "id": "d6e44d00-aeab-46a8-a1bf-07bf8bc9baad",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -3410,7 +3410,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "2b26d66f-d514-43f5-a575-5b0359688a9d",
+                            "id": "720ac05d-dbbd-4e7d-bd25-53c4703ee206",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -3462,7 +3462,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "07ee6371-c016-4da1-bdb8-312334dd5e04",
+                            "id": "d87dae5a-41bc-476a-9987-6acd45f561de",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -3514,7 +3514,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "e8b3941b-c514-45da-b2b1-39d2e3259546",
+                            "id": "9f32cded-9bcd-4cb0-b5cc-0d250847e2f6",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -3566,7 +3566,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "011fde1b-1ba8-44a9-af81-8a2a591bec1f",
+                            "id": "6200e3d2-6455-4946-a4e5-aa72bcd5b304",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -3618,7 +3618,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "5ac15a28-349e-4aa6-a3a8-235b5b302633",
+                            "id": "6a9ca9fc-4c90-4c15-ad65-4ef4346960ec",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -3670,7 +3670,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "438f0404-62f4-4b4b-ab93-4fad06b7ba84",
+                            "id": "431d97e5-beae-46b2-9318-aaa504ea3b8f",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -3722,7 +3722,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "6bbd6e6a-5ccb-42ca-a136-59f81b377b64",
+                            "id": "92893199-1cb1-4109-b39e-baa6cc87c9d2",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -3774,7 +3774,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "e9945f05-23d7-4c5f-ae20-6a963796ea95",
+                            "id": "f5df52cb-61a6-4ed4-80c6-f3f5c5f3634f",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -3826,7 +3826,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "86a7b7c9-805a-41ce-b3d4-fe32b354fe7e",
+                            "id": "14fb64ae-b73c-46e8-b96a-001b2454ecf2",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -3873,7 +3873,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -3881,7 +3881,7 @@
                     "event": []
                 },
                 {
-                    "id": "09db8b1f-9fd6-4cee-bf10-663523ce6560",
+                    "id": "6f8df103-4d6b-4ddd-befc-0d7cbfa8eb72",
                     "name": "Getlocatie",
                     "request": {
                         "name": "Getlocatie",
@@ -3902,9 +3902,9 @@
                                 {
                                     "disabled": false,
                                     "type": "any",
-                                    "value": "adipisicing magna",
+                                    "value": "occaecat aliquip",
                                     "key": "identificatie",
-                                    "description": "(Required) <body><p>De unieke identificatie waaronder elk object van dit type bekend is.</p></body><body><p>Een inhoudelijke toelichting op de toepassing van het informatie-element.</p></body><body><p>De verzameling van waarden die gegevens van dit attribuutsoort kunnen hebben, dat wil zeggen het waardenbereik, uitgedrukt in een specifieke structuur.</p></body>"
+                                    "description": "(Required) <body><p>De unieke identificatie van de locatie.</p></body><body><p>De verzameling van waarden die gegevens van dit attribuutsoort kunnen hebben, dat wil zeggen het waardenbereik, uitgedrukt in een specifieke structuur.</p></body>"
                                 }
                             ]
                         },
@@ -3921,7 +3921,7 @@
                     },
                     "response": [
                         {
-                            "id": "c8da6fed-0a35-4461-bc22-354bcab70f43",
+                            "id": "ceff200a-6fbc-412f-a004-26a92564ae42",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -3975,19 +3975,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -3995,12 +3995,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"identificatie\": \"dolore\",\n \"type\": \"punt\",\n \"werkpakketCode\": \"ut aliqua exercitation\",\n \"begindatum\": \"1988-02-05\",\n \"einddatum\": \"1963-08-21\",\n \"geometrie\": {},\n \"geometrieBron\": \"proident deserunt \",\n \"noemer\": \"et laboris elit\",\n \"omvattendeLocatieIdentificaties\": [\n  \"adipisicing sint \",\n  \"esse anim dolore\"\n ],\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"minim\"\n  },\n  \"omvattendeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   },\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n }\n}",
+                            "body": "{\n \"identificatie\": \"laborum ea anim Ut\",\n \"type\": \"lijnengroep\",\n \"begindatum\": \"2009-09-10\",\n \"einddatum\": \"2002-11-02\",\n \"geometrie\": {\n  \"point\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"lineString\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"polygon\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"multiPoint\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"multiLineString\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"multiPolygon\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n },\n \"geometrieBron\": \"sint tempor\",\n \"noemer\": \"ullamco esse Lorem Ut tempor\",\n \"omvattendeLocatieIdentificaties\": [\n  \"Lorem culpa\",\n  \"in\"\n ],\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"nulla sint do\"\n  },\n  \"omvattendeLocaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   },\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "bd10cc9b-f5ae-48cf-93e1-bbca5019e94e",
+                            "id": "2c7d11d1-886f-4ecb-b98e-c8d15e238564",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -4049,7 +4049,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "5f573446-d24d-4dec-9692-8d925e74835a",
+                            "id": "80c78dc4-368c-4bf5-9d69-2ebd3f7e1cf1",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -4098,7 +4098,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ab955bc8-8410-4055-a17b-4f60c46e212c",
+                            "id": "cc575405-58dc-47c4-b1a2-0c9ac765b8b4",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -4147,7 +4147,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "7306e92d-4222-405b-a423-3f802ccf0a76",
+                            "id": "8f58012c-941b-4946-8ae1-82d049973db1",
                             "name": "Not Found",
                             "originalRequest": {
                                 "url": {
@@ -4196,7 +4196,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "63d85cf7-19e7-418a-af5b-29cac815b0a8",
+                            "id": "5244ce30-7682-4ed5-8a7e-97b86f342fa9",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -4245,7 +4245,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "9881f01e-d5cc-423b-bab0-a081af05b500",
+                            "id": "f2b86773-0557-4351-843e-d6c744ee0ba1",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -4294,7 +4294,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "defd167e-40f8-4661-9c9c-6ba44f5b29f7",
+                            "id": "9ccfbc8d-28be-405a-b290-82eef484f102",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -4343,7 +4343,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ee4a8053-c9fe-4e37-b5a3-97d3ae55596d",
+                            "id": "ad2c37d8-9abb-47da-a07a-ec93219589e4",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -4392,7 +4392,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "27401342-acbf-40c5-810a-c102bc418f1b",
+                            "id": "a6d1a26d-39f5-41bb-977a-2ee619206e7e",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -4441,7 +4441,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "f705fd26-3387-4143-a844-13ab47b8e6c7",
+                            "id": "c321df62-2904-4721-a1ff-12215a033193",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -4490,7 +4490,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "15bdbe62-8a0a-4aa4-8cfc-ce1834ab6e0d",
+                            "id": "b01b3d95-8e93-486d-80a8-e821fea99c2d",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -4539,7 +4539,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "5ba8652c-11fb-46d5-8ccf-9291df526cff",
+                            "id": "c00b275a-e772-41fe-8b91-ed87fa1c3a59",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -4583,7 +4583,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -4594,11 +4594,11 @@
             "event": []
         },
         {
-            "id": "7d081731-0f63-4f82-b148-9c98df5a6ee9",
+            "id": "f0cbc6ae-52c8-44d5-bb0f-97fe8f47cde6",
             "name": "regelteksten",
             "item": [
                 {
-                    "id": "7a6fd36b-cf92-421e-8da6-b4dfd3e7663c",
+                    "id": "1783cb2c-9b82-4eb2-bc8d-d56af1d74e05",
                     "name": "Getregelteksten",
                     "request": {
                         "name": "Getregelteksten",
@@ -4628,15 +4628,15 @@
                                 },
                                 {
                                     "disabled": false,
-                                    "key": "inclusiefvervallen",
+                                    "key": "inclusiefVervallen",
                                     "value": "<boolean>",
                                     "description": "<body><p>Als de parameter 'vanafdatum' een waarde heeft dan moet een evt. waarde van dit attribute worden genegeerd.</p></body>"
                                 },
                                 {
                                     "disabled": false,
-                                    "key": "omgevingsdocumentidentificatie",
+                                    "key": "omgevingsdocumentIdentificatie",
                                     "value": "<string>",
-                                    "description": "<body><p>Een inhoudelijke toelichting op de toepassing van het informatie-element.</p></body>"
+                                    "description": "<body><p>De unieke identificatie van de versie van het omgevingsdocument.</p></body>"
                                 },
                                 {
                                     "disabled": false,
@@ -4645,9 +4645,9 @@
                                 },
                                 {
                                     "disabled": false,
-                                    "key": "werkpakketcode",
+                                    "key": "werkpakketCode",
                                     "value": "<string>",
-                                    "description": "<body><p>Een unieke aanduiding van de verzameling samenhangende activiteiten gericht op het publiceren van een nieuwe versie van een omgevingsdocument.</p></body><body><p>Er kunnen tegelijkertijd meerdere trajecten gaande zijn waarin bijvoorbeeld een omgevingsplan gewijzigd wordt, die elk leiden tot een apart te publiceren nieuwe versie van het omgevingsplan. De werkpakketcode biedt de mogelijkheid om de regelteksten te markeren die betrokken zijn in zo'n traject. Daarvan kan gebruik gemaakt worden om alleen de regels  met bijhorende annotaties op te vragen voor een specifiek werkpakket. </p></body>"
+                                    "description": "<body><p>Een unieke aanduiding van de verzameling samenhangende activiteiten gericht op het publiceren van een nieuwe versie van een omgevingsdocument.</p></body><body><p>Er kunnen tegelijkertijd meerdere trajecten gaande zijn waarin bijvoorbeeld een omgevingsplan gewijzigd wordt, die elk leiden tot een apart te publiceren nieuwe versie van het omgevingsplan. De werkpakketcode biedt de mogelijkheid om de regelteksten te markeren die betrokken zijn in zo'n traject. Daarvan kan gebruik gemaakt worden om alleen de regels met bijhorende annotaties op te vragen voor een specifiek werkpakket.</p></body>"
                                 }
                             ],
                             "variable": []
@@ -4665,7 +4665,7 @@
                     },
                     "response": [
                         {
-                            "id": "a842316f-847e-43f4-96ba-872b1c495621",
+                            "id": "424eeb57-1694-4c9e-8e9d-56aa53066c44",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -4685,11 +4685,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -4697,7 +4697,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -4750,19 +4750,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -4770,12 +4770,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"ullamco qui ut\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"consectetur commodo\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"occaecat culpa et aliquip in\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"voluptate et nisi commodo\"\n  }\n },\n \"_embedded\": {\n  \"regelteksten\": [\n   {\n    \"documentComponent\": {\n     \"identificatie\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"kop\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"omgevingsdocument\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"type\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"vervallen\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"volgordeNummer\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"identificatie\": \"adipisicing exercitation d\",\n    \"laatsteWijzigingsdatum\": \"1975-12-16\",\n    \"locatieIdentificaties\": [\n     \"nostrud commodo\"\n    ],\n    \"omschrijving\": \"magna in rep\",\n    \"werkpakketCode\": \"ad proident elit\",\n    \"begindatum\": \"1968-12-26\",\n    \"einddatum\": \"1962-10-19\",\n    \"gerelateerdeRegeltekstIdentificaties\": [\n     \"eiusmod mollit\",\n     \"nulla amet\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"incididunt enim commodo pariatur magna\"\n     },\n     \"gerelateerdeRegelteksten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   },\n   {\n    \"documentComponent\": {\n     \"identificatie\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"kop\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"omgevingsdocument\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"type\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"vervallen\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"volgordeNummer\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"identificatie\": \"c\",\n    \"laatsteWijzigingsdatum\": \"1964-01-28\",\n    \"locatieIdentificaties\": [\n     \"ea ipsum irure in laborum\"\n    ],\n    \"omschrijving\": \"cupidatat elit voluptate\",\n    \"werkpakketCode\": \"Duis officia laboris labore\",\n    \"begindatum\": \"2013-12-27\",\n    \"einddatum\": \"1960-06-29\",\n    \"gerelateerdeRegeltekstIdentificaties\": [\n     \"consectetur officia\",\n     \"proident ut dolore eiusmod nisi\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"magna sit\"\n     },\n     \"gerelateerdeRegelteksten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   }\n  ]\n }\n}",
+                            "body": "{\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"labor\"\n  },\n  \"first\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"ea\"\n  },\n  \"previous\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"amet\"\n  },\n  \"next\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"tempor qui reprehenderit\"\n  }\n },\n \"_embedded\": {\n  \"regelteksten\": [\n   {\n    \"documentComponent\": {\n     \"identificatie\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"kop\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"omgevingsdocument\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"type\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"vervallen\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"volgordeNummer\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"identificatie\": \"consequat\",\n    \"laatsteWijzigingsdatum\": \"1990-09-13\",\n    \"locatieIdentificaties\": [\n     \"ullamco occaecat\"\n    ],\n    \"omschrijving\": \"cupidatat adipisicing commodo sunt\",\n    \"werkpakketCode\": \"officia aliqua esse voluptate\",\n    \"begindatum\": \"2011-06-01\",\n    \"einddatum\": \"1969-02-20\",\n    \"gerelateerdeRegeltekstIdentificaties\": [\n     \"culpa aliqua\",\n     \"amet reprehenderit\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": true,\n      \"title\": \"esse\"\n     },\n     \"gerelateerdeRegelteksten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   },\n   {\n    \"documentComponent\": {\n     \"identificatie\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"kop\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"omgevingsdocument\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"type\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"vervallen\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     },\n     \"volgordeNummer\": {\n      \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n     }\n    },\n    \"identificatie\": \"sed laborum in Lorem\",\n    \"laatsteWijzigingsdatum\": \"1948-09-22\",\n    \"locatieIdentificaties\": [\n     \"eu occaecat\"\n    ],\n    \"omschrijving\": \"commodo tempor velit\",\n    \"werkpakketCode\": \"tempor aliquip\",\n    \"begindatum\": \"2021-01-23\",\n    \"einddatum\": \"1986-07-14\",\n    \"gerelateerdeRegeltekstIdentificaties\": [\n     \"Excepteur\",\n     \"sint dolore occaecat ea\"\n    ],\n    \"_links\": {\n     \"self\": {\n      \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n      \"templated\": false,\n      \"title\": \"tempor aute qui quis\"\n     },\n     \"gerelateerdeRegelteksten\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      },\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ],\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    },\n    \"_embedded\": {\n     \"locaties\": [\n      {\n       \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n      }\n     ]\n    }\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "8a603adf-8aa1-4405-b442-a7560c912c61",
+                            "id": "6b9c88ab-aa7e-4859-8474-c82e3ed5b99a",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -4795,11 +4795,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -4807,7 +4807,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -4843,7 +4843,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "3def0891-66bf-4e15-84f2-f0292b636998",
+                            "id": "e8522399-c8aa-4719-94ca-4a4bd1d442db",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -4863,11 +4863,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -4875,7 +4875,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -4911,7 +4911,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "89cd1f5f-c628-4685-acee-96b41996bb94",
+                            "id": "1010dcca-9c64-4f12-870c-bbe56f4c5b44",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -4931,11 +4931,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -4943,7 +4943,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -4979,7 +4979,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "ca44e37e-bece-4302-8341-db84585bc667",
+                            "id": "7afabf3d-43bf-4347-a30a-bbefc9e86b2c",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -4999,11 +4999,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5011,7 +5011,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5047,7 +5047,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "9919f1bd-1325-4f68-a719-70854dee7042",
+                            "id": "824d0077-36fd-41c8-b0f5-2ef71c331d5e",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -5067,11 +5067,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5079,7 +5079,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5115,7 +5115,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "52e15edb-8067-40e6-b98b-34093b5f4cd8",
+                            "id": "ccbec570-0a6c-4337-a06f-fae37bd51b37",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -5135,11 +5135,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5147,7 +5147,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5183,7 +5183,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "735b949a-00a3-4e38-86d7-6fe5ef8385cc",
+                            "id": "2c6bbd9d-7c2b-4a44-8e28-119073576f9a",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -5203,11 +5203,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5215,7 +5215,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5251,7 +5251,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "85fb9700-95e5-4e87-89c3-c489b02e1c03",
+                            "id": "425693ba-03b0-4ed7-80d1-6d5836fbe5fb",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -5271,11 +5271,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5283,7 +5283,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5319,7 +5319,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "17c91573-775a-4bf4-9d42-836e639d37cd",
+                            "id": "dc6e0533-013f-4155-8fe4-95fbe477fcbc",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -5339,11 +5339,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5351,7 +5351,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5387,7 +5387,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "3522c133-963a-43e9-8e85-b9b35410d8d5",
+                            "id": "81c83f8f-2c91-4aa1-bcc4-241cbec3f950",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -5407,11 +5407,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5419,7 +5419,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5455,7 +5455,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "363965a0-151d-4849-bc13-a3c1294a1b48",
+                            "id": "d36a7e7a-1e51-4571-8264-da40341d1f6a",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -5475,11 +5475,11 @@
                                             "value": "<string>"
                                         },
                                         {
-                                            "key": "inclusiefvervallen",
+                                            "key": "inclusiefVervallen",
                                             "value": "<boolean>"
                                         },
                                         {
-                                            "key": "omgevingsdocumentidentificatie",
+                                            "key": "omgevingsdocumentIdentificatie",
                                             "value": "<string>"
                                         },
                                         {
@@ -5487,7 +5487,7 @@
                                             "value": "20"
                                         },
                                         {
-                                            "key": "werkpakketcode",
+                                            "key": "werkpakketCode",
                                             "value": "<string>"
                                         }
                                     ],
@@ -5518,7 +5518,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -5526,7 +5526,7 @@
                     "event": []
                 },
                 {
-                    "id": "f96efbe3-3fd1-4d09-94f1-2bf17fa526fb",
+                    "id": "f5d032b5-dc7e-4aa0-88ad-cce25fe196a6",
                     "name": "Getregeltekst",
                     "request": {
                         "name": "Getregeltekst",
@@ -5554,9 +5554,9 @@
                                 {
                                     "disabled": false,
                                     "type": "any",
-                                    "value": "adipisicing magna",
+                                    "value": "occaecat aliquip",
                                     "key": "identificatie",
-                                    "description": "(Required) <body><p>De unieke identificatie waaronder elk object van dit type bekend is.</p></body>"
+                                    "description": "(Required) <body><p>De unieke identificatie van de regeltekst in het OW-domein.</p></body>"
                                 }
                             ]
                         },
@@ -5573,7 +5573,7 @@
                     },
                     "response": [
                         {
-                            "id": "b99b796d-b031-4edb-9bc2-640b27ca9ea7",
+                            "id": "231e8e94-2480-431f-9c86-62a49b2e30d5",
                             "name": "Zoekactie geslaagd",
                             "originalRequest": {
                                 "url": {
@@ -5632,19 +5632,19 @@
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Limit",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Remaining",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
                                     "disabled": false,
                                     "key": "X-Rate-Limit-Reset",
-                                    "value": "-84139933",
+                                    "value": "10619852",
                                     "description": ""
                                 },
                                 {
@@ -5652,12 +5652,12 @@
                                     "value": "application/hal+json"
                                 }
                             ],
-                            "body": "{\n \"documentComponent\": {\n  \"identificatie\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"kop\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"omgevingsdocument\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"type\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"vervallen\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"volgordeNummer\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n },\n \"identificatie\": \"ipsum consectetur in\",\n \"laatsteWijzigingsdatum\": \"1951-12-24\",\n \"locatieIdentificaties\": [\n  \"reprehenderit ea exercit\"\n ],\n \"omschrijving\": \"Ut voluptate occaecat anim\",\n \"werkpakketCode\": \"commodo aliquip Duis\",\n \"begindatum\": \"1942-11-03\",\n \"einddatum\": \"1953-12-26\",\n \"gerelateerdeRegeltekstIdentificaties\": [\n  \"minim laboris officia\",\n  \"officia Ut\"\n ],\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": false,\n   \"title\": \"reprehenderit exercitation ipsum qui amet\"\n  },\n  \"gerelateerdeRegelteksten\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   },\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"locaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n },\n \"_embedded\": {\n  \"locaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n }\n}",
+                            "body": "{\n \"documentComponent\": {\n  \"identificatie\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"kop\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"omgevingsdocument\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"type\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"vervallen\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  },\n  \"volgordeNummer\": {\n   \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n  }\n },\n \"identificatie\": \"enim elit\",\n \"laatsteWijzigingsdatum\": \"1992-12-02\",\n \"locatieIdentificaties\": [\n  \"esse laboris\"\n ],\n \"omschrijving\": \"adipisicing irure eu anim\",\n \"werkpakketCode\": \"dolore\",\n \"begindatum\": \"1985-12-02\",\n \"einddatum\": \"1955-05-17\",\n \"gerelateerdeRegeltekstIdentificaties\": [\n  \"labore adipisic\",\n  \"in est\"\n ],\n \"_links\": {\n  \"self\": {\n   \"href\": \"https://datapunt.voorbeeldgemeente.nl/api/v{major-versie}/resourcename/{resource-identificatie}\",\n   \"templated\": true,\n   \"title\": \"adipisicing sit\"\n  },\n  \"gerelateerdeRegelteksten\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   },\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ],\n  \"locaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n },\n \"_embedded\": {\n  \"locaties\": [\n   {\n    \"value\": \"<Error: Too many levels of nesting to fake this schema>\"\n   }\n  ]\n }\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "6987c8fd-f14f-4d0f-a997-1399d2c3a5a0",
+                            "id": "c0e575cb-e912-48b0-8639-795cb73bd0a0",
                             "name": "Bad Request",
                             "originalRequest": {
                                 "url": {
@@ -5711,7 +5711,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "179f623f-b00b-4697-91d5-e818211f9eb2",
+                            "id": "09d224f6-f962-4ec8-9e3a-1b66f59075ab",
                             "name": "Unauthorized",
                             "originalRequest": {
                                 "url": {
@@ -5765,7 +5765,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "2f61cbea-55c2-4bb8-b8b1-01b2ea54b5a9",
+                            "id": "8c98a517-01f5-4413-b2cf-314d7d44820d",
                             "name": "Forbidden",
                             "originalRequest": {
                                 "url": {
@@ -5819,7 +5819,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "839ba24d-a08e-45f5-9825-58a8bb42248e",
+                            "id": "3a49ce91-3390-41a9-9c06-a7ced69fd2bd",
                             "name": "Not Found",
                             "originalRequest": {
                                 "url": {
@@ -5873,7 +5873,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "288ba4eb-cf5b-43be-adb4-9b5989785a7b",
+                            "id": "72886606-4fc2-4c79-ad75-aeb85b3d7fad",
                             "name": "Conflict",
                             "originalRequest": {
                                 "url": {
@@ -5927,7 +5927,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "b17f9d01-4dbb-4e36-897a-0d9c4106a491",
+                            "id": "7469eddf-8043-4b71-847b-8008594da7a7",
                             "name": "Gone",
                             "originalRequest": {
                                 "url": {
@@ -5981,7 +5981,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "abd30953-b6a2-43d5-80fb-6abda5aeba99",
+                            "id": "df887bbd-5862-4c6d-a72b-04243edc4bd0",
                             "name": "Unsupported Media Type",
                             "originalRequest": {
                                 "url": {
@@ -6035,7 +6035,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "6d45d0c2-014e-42cc-8b94-10a641f50cd6",
+                            "id": "078ab2d0-1592-4f06-9bbf-900169654a4a",
                             "name": "Too Many Requests",
                             "originalRequest": {
                                 "url": {
@@ -6089,7 +6089,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "5a686d1e-abfa-4a16-99e0-488e068b0c70",
+                            "id": "ab4383bb-fde3-473d-a59a-53bdea29e31f",
                             "name": "Internal Server Error",
                             "originalRequest": {
                                 "url": {
@@ -6143,7 +6143,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "a0c6f177-45f4-4b90-b2da-99beeca5e215",
+                            "id": "28c0e14e-1d4a-4ae4-adc2-8a8ba8430d55",
                             "name": "Not Implemented",
                             "originalRequest": {
                                 "url": {
@@ -6197,7 +6197,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "4b1e8950-4fc9-4921-9499-cc97d8f06d6f",
+                            "id": "8e887bd8-6f03-49bf-b1f6-0271b537db94",
                             "name": "Service Unavailable",
                             "originalRequest": {
                                 "url": {
@@ -6251,7 +6251,7 @@
                             "_postman_previewlanguage": "json"
                         },
                         {
-                            "id": "0a616049-2eac-4043-a30d-d0943cea2212",
+                            "id": "8c02e463-995f-4fab-8d54-be36bdcef5ac",
                             "name": "Er is een onverwachte fout opgetreden",
                             "originalRequest": {
                                 "url": {
@@ -6300,7 +6300,7 @@
                                     "value": "application/problem+json"
                                 }
                             ],
-                            "body": "{\n \"type\": \"http://QcNvUghClrFRWpwpmmpRkSvMdBxwdmMG.vdsrrr5ou9B\",\n \"title\": \"es\",\n \"status\": -79869353,\n \"detail\": \"occaecat non\",\n \"instance\": \"https://UXEcnobasQuLdqVsdBKFwLZsmbcwwe.cgGQ.l\",\n \"code\": \"est dolore\"\n}",
+                            "body": "{\n \"type\": \"https://mNNaAnomJduWaQHWuYrUhURDq.yvejgu2409Ia3iCH+HMECg\",\n \"title\": \"commodo irure mollit \",\n \"status\": -4228440,\n \"detail\": \"culpa aliqua\",\n \"instance\": \"https://yjTtpIEIcLT.vzrwhbDGzTyX\",\n \"code\": \"occaecat cupidatat ipsum\"\n}",
                             "cookie": [],
                             "_postman_previewlanguage": "json"
                         }
@@ -6315,16 +6315,16 @@
     "variable": [
         {
             "type": "string",
-            "value": "https://virtserver.swaggerhub.com/VNGRealisatie/api/plan_sw___toepasbare_regel_sw/v0",
+            "value": "https://virtserver.swaggerhub.com/VNGRealisatie/api/regels_bij_activiteiten/v1",
             "key": "baseUrl"
         }
     ],
     "info": {
-        "_postman_id": "b1d7f0f2-8aa3-4af8-809f-5366135a60d8",
-        "name": "Plan SW - Toepasbare regel SW",
+        "_postman_id": "fd8fdf9e-a370-4893-8217-a788a51156b0",
+        "name": "Regels bij activiteiten",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
         "description": {
-            "content": "Contact Support:\n Email: robert.melskens@vng.nl",
+            "content": "<body><p>Deze API maakt het mogelijk om gegevens op te vragen, bij een applicatie die invulling geeft aan de Omgevingswetbeleidcomponent, ook wel aangeduid als plansoftware, over (Omgevingswet-)activiteiten en/of (bijbehorende) juridische regels, regelteksten en locaties.</p></body>\n\nContact Support:\n Email: robert.melskens@vng.nl",
             "type": "text/plain"
         }
     }
