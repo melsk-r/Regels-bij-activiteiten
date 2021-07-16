@@ -24,17 +24,17 @@ title: Releasenotes
 
   | Link Github	| Beschrijving |
   | --- | --- |
-  | #36 | Fout in waarde van description van het property 'werkpakketCode' in 'regeltekst' is gefixed. |
-  | #37 | Attribute 'werkpakketCode' is verwijderd uit 'Locatie'. |
-  | #38 | Conflicterende karakters uit de description van relatie 'is' op 'activiteit' zijn verwijderd. |
-  | #39 | De 'url' waarden van de server beschrijving bovenin de specificatie is gecorrigeerd. |
-  | #40 | De 'title' property in het info deel van de specificatie is gecorrigeerd. |
-  | #41 | De property 'documentType' in 'Omgevingsdocument' is verplicht gemaakt en hernoemd naar 'type'. |
-  | #42 | De property 'documentType' in 'Omgevingsdocument' is verplicht gemaakt en hernoemd naar 'type'. |
-  | #43 | De omschrijving van een groot aantal componenten is verbeterd. |
-  | #44 | Conflicterend karakter uit de description van relatie 'gerelateerd' op 'activiteit' is verwijderd. |
-  | #45 | De vreemde 'description' op component 'locatieType' is verwijderd. |
-  | #46 | De omschrijving van een groot aantal componenten is verbeterd. |
+  | [36](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/36){:target="_blank"} | Fout in waarde van description van het property 'werkpakketCode' in 'regeltekst' is gefixed. |
+  | [37](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/37){:target="_blank"} | Attribute 'werkpakketCode' is verwijderd uit 'Locatie'. |
+  | [38](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/38){:target="_blank"} | Conflicterende karakters uit de description van relatie 'is' op 'activiteit' zijn verwijderd. |
+  | [39](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/39){:target="_blank"} | De 'url' waarden van de server beschrijving bovenin de specificatie is gecorrigeerd. |
+  | [40](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/40){:target="_blank"} | De 'title' property in het info deel van de specificatie is gecorrigeerd. |
+  | [41](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/41){:target="_blank"} | De property 'documentType' in 'Omgevingsdocument' is verplicht gemaakt en hernoemd naar 'type'. |
+  | [42](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/42){:target="_blank"} | De property 'documentType' in 'Omgevingsdocument' is verplicht gemaakt en hernoemd naar 'type'. |
+  | [43](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/43){:target="_blank"} | De omschrijving van een groot aantal componenten is verbeterd. |
+  | [44](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/44){:target="_blank"} | Conflicterend karakter uit de description van relatie 'gerelateerd' op 'activiteit' is verwijderd. |
+  | [45](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/45){:target="_blank"} | De vreemde 'description' op component 'locatieType' is verwijderd. |
+  | [46](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues/46){:target="_blank"} | De omschrijving van een groot aantal componenten is verbeterd. |
 
 ## Versie 1.0.0-rc1 (30-04-2021)
 
