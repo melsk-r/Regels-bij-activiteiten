@@ -55,11 +55,11 @@ De gegevens die middels deze API worden uitgewisseld zijn niet privacygevoelig. 
 Aangezien deze API binnengemeentelijk berichtenverkeer van niet privacygevoelige gegevens betreft worden er geen aanvullende security eisen gesteld.
 
 ## Documentatie
-* [Technische specificaties van de **unresolved** versie](../specificatie/openapi.yaml) (Open API versie)
-* Specificaties van de actuele productie versie (resolved) in [Swagger-formaat](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/VNG-Realisatie/Regels-bij-activiteiten/main/specificatie/genereervariant/openapi.yaml)
-* [Technische specificaties](../specificatie/openapi.json) (JSON Schema versie t.b.v. bestandsuitwisseling)
-* [Technische specificaties](../specificatie/openapi_draft04.json) (JSON Schema draft 04 versie t.b.v. bestandsuitwisseling)
-* Download [client code](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/tree/master/code)
+* Bekijk de specificaties met [Swagger UI](./swagger-ui) of [Redoc](./redoc)
+* Download de [technische specificaties](https://github.com/VNG-Realisatie/Regels-bij-Activiteiten/blob/master/specificatie/genereervariant/openapi.yaml){:target="_blank" rel="noopener"}
+* Download de [JSON Schema versie van de technische specificatie t.b.v. bestandsuitwisseling](https://raw.githubusercontent.com/VNG-Realisatie/Regels-bij-activiteiten/main/specificatie/openapi.json){:target="_blank" rel="noopener"}
+* Download de [JSON Schema draft 04 versie van de technische specificatie t.b.v. bestandsuitwisseling](https://raw.githubusercontent.com/VNG-Realisatie/Regels-bij-activiteiten/main/specificatie/openapi_draft04.json){:target="_blank" rel="noopener"}
+* Download [client code](https://github.com/VNG-Realisatie/Regels-bij-Activiteiten/tree/master/code){:target="_blank" rel="noopener"}
 
 * Ontwerpkeuzes staan in de [ontwerpbeslissingen](./docs/ontwerpbeslissingen.md)
   Voor nu: opmerkingen, vragen, verbetervoorstellen e.d. graag als [issues](https://github.com/VNG-Realisatie/Regels-bij-activiteiten/issues) in deze repository.
